@@ -1,2 +1,2 @@
 # KNN
-k-Nearest Neighbors from scratch 
+k-Nearest Neighbors from scratch with Python
